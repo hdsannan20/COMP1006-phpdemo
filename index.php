@@ -13,6 +13,7 @@ $myName = "Tom";
     <title><?php echo $myName ?></title>
   </head>
   <body>
+    <!-- first heading -->
     <h1>Hello World!</h1>
 
     <h2>Name: <?php echo $myName ?></h2>
